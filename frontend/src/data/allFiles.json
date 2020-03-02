@@ -1,0 +1,42 @@
+[
+  {
+    "id": "5d2c865e9a0bae79a6ef7cfa",
+    "type": "Original",
+    "fileName": "Passport 1.docx",
+    "comments": "KLS",
+    "addedDate": "30.12.2020",
+    "fileSize": "360.8 Kb"
+  },
+  {
+    "id": "5d2c865e9a0bae79a6ef7cfb",
+    "type": "Translated",
+    "fileName": "Dept standard.xlsx",
+    "comments": "NDA",
+    "addedDate": "30.12.2020",
+    "fileSize": "40.8 Mb"
+  },
+  {
+    "id": "5d2c865e9a0bae79a6ef7cf5",
+    "type": "Translated",
+    "fileName": "Dept standard.xlsx",
+    "comments": "NDA",
+    "addedDate": "30.12.2020",
+    "fileSize": "40.8 Mb"
+  },
+  {
+    "id": "5d2c865e9a0bae79a6ef7cf0",
+    "type": "Original",
+    "fileName": "Dept standard.xlsx",
+    "comments": "NDA",
+    "addedDate": "30.12.2020",
+    "fileSize": "40.8 Mb"
+  },
+  {
+    "id": "5d2c865e9a0bae79a6ef7cf70",
+    "type": "Translated",
+    "fileName": "rew.jpg",
+    "comments": "File not used",
+    "addedDate": "30.12.2020",
+    "fileSize": "40.8 Mb"
+  }
+]
